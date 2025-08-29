@@ -1,7 +1,7 @@
 {
   "name": "soulsync",
   "version": "1.0.0",
-  "homepage": "https://VOTRE-USERNAME.github.io/soulsync",
+  "homepage": "https://krim88.github.io/soulsync",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
